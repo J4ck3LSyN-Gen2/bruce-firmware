@@ -1,5 +1,19 @@
 ![Bruce Main Menu](./media/pictures/bruce_banner.jpg)
 
+# Planned additions 
+## Target Device: [_LilyGo T-Watch S3_](https://lilygo.cc/en-us/products/t-watch-s3)
+
+1. Add functionality around the `clock`, this is for my own personal growth into C++.
+2. Add wrapping around more internal functions for the JS Interpreter.
+   - More passive wifi/ble scanning Options.
+   - More wrapping around TCP/UDP sockets for better implmentation.
+   - A 'new' reverse shell C2 type for win/lin.
+   - Adding more as I conceptualize.
+
+---
+
+# Original
+
 # :shark: Bruce
 
 Bruce is a versatile ESP32 firmware that supports a ton of offensive features focusing on facilitating Red Team operations.
